@@ -8,6 +8,7 @@
 body{
   background: var(--Gradient-2, linear-gradient(180deg, #914bec 0%, #4f34ea 100%));
   background-repeat: no-repeat;
+  height: 912px;
 }
 .container {
   display: flex;
